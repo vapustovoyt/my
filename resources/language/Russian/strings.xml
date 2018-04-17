@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="30001">Логин</string>
+    <string id="30002">Пароль</string>
+    <string id="30003">Основные</string>
+    <string id="30004">Домен</string>
+    <string id="30005">Сбросить настройки по-умолчанию</string>
+    <string id="30006">Использовать зеркало</string>
+
+    <string id="30024">По-умолчанию</string>
+    <string id="30025">Ожидание ответа сервера при Поиске</string>
+    <string id="30026">Короткое (10с)</string>
+    <string id="30027">Среднее (20с)</string>
+    <string id="30028">Долгое (30с)</string>
+    <string id="30030">Сортировать</string>
+    <string id="30031">Сиды</string>
+    <string id="30032">Возраст</string>
+</strings>

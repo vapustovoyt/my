@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+<category label="30003">
+    <setting id="username" type="text" label="30001" default="torrenterpl" enable="true" />
+    <setting id="password" type="text" label="30002" default="torrenter" enable="true" option="hidden" />
+    <setting id="usemirror" type="bool" label="30006" default="false" />
+    <setting id="baseurl" type="text" label="30004" default="www.bigfangroup.org" enable="eq(-1,true)" />
+    <setting
+                id="timeout"
+                type="enum"
+                lvalues="30024|30026|30027|30028"
+                label="30025"
+                default="0"
+                />
+ </category>
+</settings>
