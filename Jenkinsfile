@@ -15,7 +15,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying....'
-                zip -r torrenter.searcher.bigfangroup.zip *
+                sh "zip -r torrenter.searcher.bigfangroup.zip *"
             }
         }
     }
